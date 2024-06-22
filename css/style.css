@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(34, 42, 75);
+    font-family: "Tiny5";
+}
+div.menu{
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    width: 400px;
+    background-color: rgb(215, 255, 250);
+    border: 3px solid rgb(94, 183, 255);
+    border-radius: 30px;
+    text-align: center;
+}
+
+div.profile{
+    background-color: rgb(242, 255, 255);
+    border: 5px solid rgb(94, 183, 255);
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+div.Skills{
+    background-color: rgb(242, 255, 255);
+    border: 7px solid rgb(64, 128, 180);
+    border-radius: 30px;
+    margin-top: 50px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+}
+div.Exp{
+    background-color: rgb(242, 255, 255);
+    border: 7px solid rgb(91, 181, 255);
+    border-radius: 30px;
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+    
+}
+
+div.Hobby{
+    background-color: rgb(242, 255, 255);
+    border: 7px solid rgb(67, 135, 190);
+    border-radius: 30px;
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+    
+}
+
+div.Contact{
+    background-color: rgb(242, 255, 255);
+    border: 7px solid rgb(67, 135, 190);
+    border-radius: 30px;
+    margin-top: 50px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+}
+h1{
+    color: rgb(1, 1, 65);
+    font-weight: bold;
+    font-size: 45px;
+}
+h2{
+    text-decoration: underline blue 5px;
+    font-size: 35px;
+    font-weight: bold;
+}
+h3{
+    text-decoration: underline rgb(9, 9, 99) 3px;
+    font-style: italic;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 20px;
+}
+p.one{
+    text-align: left;
+    font-size: 25px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+img.Exp{
+    border: 5px solid rgb(80, 118, 150);
+    margin: 1% ;
+    border-radius: 30px;
+}
+
+img.Contact{
+    border: 5px solid rgb(80, 118, 150);
+    margin: 1% ;
+    border-radius: 30px;
+}
